@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="1253" viewBox="0 0 1366 1253">
+  <defs>
+    <clipPath id="clip-poly">
+      <rect width="1366" height="1253"/>
+    </clipPath>
+  </defs>
+  <g id="poly" clip-path="url(#clip-poly)">
+    <rect width="1366" height="1253" fill="#fff"/>
+    <g id="Polygon_1" data-name="Polygon 1" transform="translate(37.291 217.694) rotate(-59)" fill="#fff">
+      <path d="M 191.1965789794922 194.5 L 0.803470253944397 194.5 L 96.00001525878906 1.132010221481323 L 191.1965789794922 194.5 Z" stroke="none"/>
+      <path d="M 96.00001525878906 2.264053344726563 L 1.606918334960938 194 L 190.3930969238281 194 L 96.00001525878906 2.264053344726563 M 96.00001525878906 -1.52587890625e-05 L 192.0000152587891 195 L -1.52587890625e-05 195 L 96.00001525878906 -1.52587890625e-05 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(1191 51)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="107.5" cy="95.5" rx="107.5" ry="95.5" stroke="none"/>
+      <ellipse cx="107.5" cy="95.5" rx="107" ry="95" fill="none"/>
+    </g>
+    <g id="Rectangle_33" data-name="Rectangle 33" transform="translate(511.631 -127.962) rotate(31)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="237" height="127" stroke="none"/>
+      <rect x="0.5" y="0.5" width="236" height="126" fill="none"/>
+    </g>
+    <g id="Polygon_2" data-name="Polygon 2" transform="translate(587.176 411.587) rotate(25)" fill="#fff">
+      <path d="M 253.1320495605469 218.5 L 0.8679520487785339 218.5 L 127 0.9967046976089478 L 253.1320495605469 218.5 Z" stroke="none"/>
+      <path d="M 127 1.993392944335938 L 1.73590087890625 218 L 252.2640991210938 218 L 127 1.993392944335938 M 127 0 L 254 219 L 0 219 L 127 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(-86 627)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="123" cy="122" rx="123" ry="122" stroke="none"/>
+      <ellipse cx="123" cy="122" rx="122.5" ry="121.5" fill="none"/>
+    </g>
+    <g id="Rectangle_34" data-name="Rectangle 34" transform="translate(1176.526 710.289) rotate(-41)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="334" height="169" stroke="none"/>
+      <rect x="0.5" y="0.5" width="333" height="168" fill="none"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(859 412)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="41" cy="39.5" rx="41" ry="39.5" stroke="none"/>
+      <ellipse cx="41" cy="39.5" rx="40.5" ry="39" fill="none"/>
+    </g>
+    <g id="Rectangle_35" data-name="Rectangle 35" transform="matrix(0.788, -0.616, 0.616, 0.788, 484.722, 408.151)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="86" height="63" stroke="none"/>
+      <rect x="0.5" y="0.5" width="85" height="62" fill="none"/>
+    </g>
+    <g id="Polygon_3" data-name="Polygon 3" transform="matrix(0.719, 0.695, -0.695, 0.719, 126.53, 1075.953)" fill="#fff">
+      <path d="M 175.2939453125 249.5 L 0.7060570120811462 249.5 L 88 1.505843758583069 L 175.2939453125 249.5 Z" stroke="none"/>
+      <path d="M 88 3.011810302734375 L 1.412155151367188 249 L 174.5878448486328 249 L 88 3.011810302734375 M 88 0 L 176 250 L 0 250 L 88 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Polygon_4" data-name="Polygon 4" transform="translate(543.981 925.359) rotate(-47)" fill="#fff">
+      <path d="M 89.09787750244141 71.5 L 0.9021248817443848 71.5 L 44.9999885559082 0.9434000253677368 L 89.09787750244141 71.5 Z" stroke="none"/>
+      <path d="M 44.9999885559082 1.886802673339844 L 1.804252624511719 71 L 88.19574737548828 71 L 44.9999885559082 1.886802673339844 M 44.9999885559082 0 L 90 72 L 0 72 L 44.9999885559082 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(1191 1102)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="133" cy="132" rx="133" ry="132" stroke="none"/>
+      <ellipse cx="133" cy="132" rx="132.5" ry="131.5" fill="none"/>
+    </g>
+  </g>
+</svg>

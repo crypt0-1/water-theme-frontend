@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="768" viewBox="0 0 1366 768">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="1.075" y2="0.259" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b8f0"/>
+      <stop offset="1" stop-color="#003cff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.283" y1="0.102" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00dcff"/>
+      <stop offset="1" stop-color="#005fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#07f"/>
+      <stop offset="1" stop-color="#0ef"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0cf"/>
+      <stop offset="1" stop-color="#0090ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00c9fc"/>
+      <stop offset="1" stop-color="#006fff"/>
+    </linearGradient>
+    <clipPath id="clip-water">
+      <rect width="1366" height="768"/>
+    </clipPath>
+  </defs>
+  <g id="water" clip-path="url(#clip-water)">
+    <rect width="1366" height="768" fill="#fff"/>
+    <path id="Path_1" data-name="Path 1" d="M0,414.5s111.807-3.117,60.384-101.289,77.915-98.172,123.1-99.73,87.264-21.816,23.374-87.264,82.589-96.614,123.1-93.5S373.6-12.466,373.6-12.466H-123.494V414.5Z" transform="translate(8 -2)" fill="url(#linear-gradient)"/>
+    <path id="Path_2" data-name="Path 2" d="M1366,462.812s-175.857-149.6-129.108-46.749,62.332,174.528-18.7,98.172-216.6-183.878-166.737-67.006-51.424,98.172-51.424,98.172S788.1,392.689,844.2,514.235,795.9,646.69,795.9,646.69s-143.363-52.982-112.2,12.466-74.8,57.657-74.8,57.657-49.865-20.258,9.35,29.607S1389.6,777.586,1389.6,777.586V462.812Z" transform="translate(8 -7)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_3" data-name="Path 3" d="M589.27,713.477C566.27,742.017,667,784.825,667,784.825l156.126-5.876Z" transform="translate(6 -8)" fill="url(#linear-gradient-3)"/>
+    <path id="Path_4" data-name="Path 4" d="M683,641.3c14.081,51.636,62.029,76.531,62.029,76.531l168.738,47.947-157.673-89.44Z" transform="translate(6 2)" fill="url(#linear-gradient-4)"/>
+    <path id="Path_5" data-name="Path 5" d="M838.158,484.085s4.935,84.041,145.1,200.71S1132.3,812.34,1132.3,812.34Z" transform="translate(4.61 -16.136)" fill="url(#linear-gradient-5)"/>
+  </g>
+</svg>
